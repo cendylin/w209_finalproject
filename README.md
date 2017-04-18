@@ -45,3 +45,46 @@ _Could_
 
 _Wont_  
 1. Flip axes on voter power  
+
+
+Final Presentation Checklist
+Presentations
+* What changed? Why?
+  * details, conclusions based in 3 different subjects
+  * directly relate changes to usability tests
+* Which tools used and why?
+
+Web site
+* interactive visualization
+* explanatory text to accompany visualization
+  * names of team members
+  * visualization's goals
+  * intended audience
+  * data sources
+* Either incorporated or on an About page
+! Share on ISchool Project page (for posterity)
+  * description
+  * link
+  * screen capture
+  * if it will not remain live, post a video walkthrough
+
+Paper
+* Brief!
+* URL for final
+* Breakdown of who did which tasks
+* Changes you would have made if you had more time
+  * Information you didn't have time to include
+  * Changes made in the last week since the demo
+* Anything else instructor should know
+
+Grades
+* Final product of appropriate form
+* Does it successfully solve a problem/inform user?
+* Explanatory text clear?
+* Show substantial iterations?
+* Can visualization be understood easily?
+* Pretty?
+* Include results of usability testing?
+* Present data in a novel way?
+* Explain choice of tools?
+* Did everyone participate?
